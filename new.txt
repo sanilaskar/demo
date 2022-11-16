@@ -1,1 +1,6 @@
 clear now
+
+
+
+new line added 
+and deleted clear now
